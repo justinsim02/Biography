@@ -10,6 +10,5 @@ Engineering Intern for Lubn Inc.
 
 [currently bumping this](https://www.youtube.com/watch?v=4l5nfBzl19g)
 
-Check out my latest project: FIR Running Mean Filter
 
 Thanks for checking out my page!
